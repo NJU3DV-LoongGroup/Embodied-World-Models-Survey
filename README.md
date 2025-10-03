@@ -511,7 +511,7 @@ To address the absence of a comprehensive grading system that integrates the dim
 | [Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning](https://arxiv.org/abs/2305.18499) | 2023-05 | NeurIPS 2023 | [Github](https://github.com/thuml/ContextWM) | Dynamic Model |
 | [iVideoGPT: Interactive VideoGPTs are Scalable World Models](https://arxiv.org/abs/2405.15223) | 2024-05 | NeurIPS 2024 | [Github](https://github.com/thuml/iVideoGPT) | Dynamic Model |
 | [Video Prediction Models as Rewards for Reinforcement Learning (VIPER)](https://arxiv.org/abs/2305.14343) | 2023-05 | NeurIPS 2023 | [Github](https://github.com/Alescontrela/viper_rl) | Reward Model |
-
+| [Video models are zero-shot learners and reasoners](https://arxiv.org/abs/2509.20328) | 2025-09 | arXiv Google Deepmind | - | Neural Simulator |
 </details>
 
 ## 6. World Models for Intelligent Robots
