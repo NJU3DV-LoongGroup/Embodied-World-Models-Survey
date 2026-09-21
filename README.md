@@ -595,6 +595,7 @@ To address the absence of a comprehensive grading system that integrates the dim
 | [AdaWM: Adaptive World Model for Autonomous Driving](https://arxiv.org/abs/2501.13072) | 2025-01 | ICLR 2025 | - | Motion Planning |
 | [AD-L-JEPA: Autonomous Driving with L-JEPA](https://arxiv.org/abs/2501.04969) | 2025-01 | arXiv | [GitHub](https://github.com/HaoranZhuExplorer/AD-L-JEPA-Release) | Motion Prediction |
 | [HERMES: Harmonized Embodied Representation for Multi-modal Sensor Integration in Autonomous Driving](https://arxiv.org/abs/2501.14729) | 2025-01 | ICCV 2025 | [GitHub](https://github.com/LMD0311/HERMES) | Motion Planning |
+| [DriveVA: Video Action Models are Zero-Shot Drivers](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19) | 2026-04 | ECCV 2026 | [GitHub](https://github.com/xiaomi-mlab/DriveVA) | Motion Planning |
 
 </details>
 
